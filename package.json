@@ -1,0 +1,22 @@
+{
+  "name": "verify-value",
+  "version": "1.0.0",
+  "description": "This projet for nodejs,to verfy parameters value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blueskybing/verify-value.git"
+  },
+  "keywords": [
+    "verify-value"
+  ],
+  "author": "Blueskybing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blueskybing/verify-value/issues"
+  },
+  "homepage": "https://github.com/Blueskybing/verify-value#readme"
+}
