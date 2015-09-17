@@ -1,6 +1,6 @@
 {
   "name": "verify-value",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This projet for nodejs,to verfy parameters value.",
   "main": "index.js",
   "scripts": {

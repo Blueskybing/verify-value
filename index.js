@@ -1,1 +1,1 @@
-require("./lib/verify_value.js");
+module.exports = require("./lib/verify_value.js");
